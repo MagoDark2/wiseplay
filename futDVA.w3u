@@ -17,13 +17,13 @@
         {
           "name": "Canal 2",
           "image": "https://www.mundoplus.tv/wiki/_media/logos/mll.png",
-          "url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f",
+          "url": "https://cdn.livetv852.me/webplayer.php?t=ifr&c=2661247&lang=es&eid=285689873&lid=2661247&ci=15&si=1",
           "isHost": "true"
         },
         {
           "name": "Canal 3",
           "image": "https://www.mundoplus.tv/wiki/_media/logos/mll.png",
-          "url": "https://librefutbol.su/espn-1/",
+          "url": "https://cdn16.vivozytv.com/espn/tracks-v1a1/mono.m3u8?remote=188.78.94.88&token=4c69073c8f937790a68b5d30c497360bb426bcf2-810a4e84ccb5b247248de6521764e855-1744408284-1744397484",
           "isHost": "true"
         }
       ]
