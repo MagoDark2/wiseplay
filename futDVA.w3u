@@ -1,0 +1,32 @@
+{
+  "name": "FutDVA",
+  "author": "DVA",
+  "image": "https://cdn-icons-png.flaticon.com/512/9192/9192909.png",
+  "url": "https://pastebin.com/edit/Nzzq0900",
+  "groups": [
+    {
+      "name": "Canales",
+      "image": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg",
+      "stations": [
+        {
+          "name": "Canal 1",
+          "image": "https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png",
+          "url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280",
+          "isHost": "true"
+        },
+        {
+          "name": "Canal 2",
+          "image": "https://www.mundoplus.tv/wiki/_media/logos/mll.png",
+          "url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f",
+          "isHost": "true"
+        },
+        {
+          "name": "Canal 3",
+          "image": "https://www.mundoplus.tv/wiki/_media/logos/mll.png",
+          "url": "https://librefutbol.su/espn-1/",
+          "isHost": "true"
+        }
+      ]
+    }
+  ]
+}
